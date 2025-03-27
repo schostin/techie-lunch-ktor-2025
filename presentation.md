@@ -212,14 +212,14 @@ Natürlich auch custom exceptions möglich
 
 ---
 
-Potentiell Euro-V Code anschauen
+## Potenziell Euro-V Code anschauen
 
 ---
 
-Fragen?
+# Fragen?
 
 ---
 
 Danke fürs Zuhören.
 
-GitHub Link:
+GitHub Link: <https://github.com/schostin/techie-lunch-ktor-2025>
